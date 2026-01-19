@@ -1,6 +1,7 @@
 import Link from "next/link"
 import Image from "next/image"
 
+
 const layout = ({ children }: { children: React.ReactNode }) => {
     return (
         <main className='auth-layout'>
